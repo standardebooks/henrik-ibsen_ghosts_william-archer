@@ -44,7 +44,7 @@
 		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/8121</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description"><i>Ghosts</i> is a 3-act tragedy was written in 1881 that centers around a Danish sea captain’s widow who, no matter how she has tried, cannot escape the ghosts of the past.</dc:description>
+		<dc:description id="description"> This 3-act tragedy was written in 1881 and centers around a Danish sea captain’s widow who, no matter how she has tried, cannot escape the ghosts of the past.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Written in 1881, when melodrama and farce were still at their peak of popularity, Ibsen’s &lt;i&gt;Ghosts&lt;/i&gt; is a 3-act tragedy that explores uncomfortable, even forbidden themes and was a highly critical commentary on the morality of the day. The play centers around the widow of a prominent Norwegian sea captain whose son returns home and, with tragic consequences, revives the ghosts of the past that she has long laboured to put to rest.&lt;/p&gt;
