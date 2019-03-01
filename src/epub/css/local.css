@@ -16,6 +16,11 @@
 	font-style: italic;
 }
 
+[epub|type~="z3998:dramatis-personae"] ul li li{
+	margin: 0em;
+	font-style: normal;
+}
+
 [epub|type~="z3998:drama"]{
 	border-collapse: collapse;
 }
@@ -75,12 +80,19 @@ i i{
 	font-style: normal;
 }
 
-footer{
-	margin: 1em;
+.signature{
 	text-align: right;
+	margin-top: 2em;
+	font-variant: small-caps;
 }
 
 section[epub|type~="z3998:scene"] > p{
 	margin: 1em auto;
 	width: 75%;
+}
+
+section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
+	display: block;
+	font-size: .75em;
+	font-weight: normal;
 }
