@@ -76,13 +76,12 @@
 	font-variant: all-small-caps;
 }
 
-i i{
-	font-style: normal;
+footer{
+	margin-top: 1em;
+	text-align: right;
 }
 
 .signature{
-	text-align: right;
-	margin-top: 2em;
 	font-variant: small-caps;
 }
 
