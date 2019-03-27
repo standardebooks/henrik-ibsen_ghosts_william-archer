@@ -125,8 +125,8 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="introduction.xhtml"/>
-		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="characters.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="act-1.xhtml"/>
 		<itemref idref="act-2.xhtml"/>
 		<itemref idref="act-3.xhtml"/>
