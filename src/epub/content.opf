@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Ghosts</dc:title>
 		<meta property="file-as" refines="#title">Ghosts</meta>
 		<meta property="title-type" refines="#title">main</meta>
@@ -42,21 +42,25 @@
 		<dc:subject id="subject-4">Mothers and sons -- Drama</dc:subject>
 		<dc:subject id="subject-5">Norwegian drama -- Translations into English</dc:subject>
 		<dc:subject id="subject-6">Domestic drama</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/8121</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/8121</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/8121</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/8121</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/8121</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/8121</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008103500</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2001009136</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008107973</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">Unknown</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh85038922</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Drama</meta>
 		<dc:description id="description">A Norwegian sea captain’s widow who, no matter how much she tries, cannot escape the ghosts of the past.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Written in 1881, when melodrama and farce were still at their peak of popularity, Ibsen’s &lt;i&gt;Ghosts&lt;/i&gt; is a three-act tragedy that explores uncomfortable, even forbidden themes. It is also a highly critical commentary on the morality of the day. The play centers around the widow of a prominent Norwegian sea captain whose son returns home and, with tragic consequences, revives the ghosts of the past that she has long labored to put to rest.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Ghosts&lt;/i&gt; immediately became a source of controversy for its inclusion of topics like venereal disease, incest, and euthanasia, and it was banned from being performed in England for many years. Its arrival signals a shift in the nature of theatre and, despite negative criticism, it was translated into other languages and performed in Sweden, Germany, and New York within a few years of its debut. It stands now as one of the works considered to have ushered in the era of modern drama.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8121</dc:source>
 		<meta property="se:word-count">25358</meta>
