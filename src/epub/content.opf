@@ -54,8 +54,8 @@
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh85038922</meta>
-		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Drama</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A Norwegian sea captain’s widow who, no matter how much she tries, cannot escape the ghosts of the past.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Written in 1881, when melodrama and farce were still at their peak of popularity, Ibsen’s &lt;i&gt;Ghosts&lt;/i&gt; is a three-act tragedy that explores uncomfortable, even forbidden themes. It is also a highly critical commentary on the morality of the day. The play centers around the widow of a prominent Norwegian sea captain whose son returns home and, with tragic consequences, revives the ghosts of the past that she has long labored to put to rest.&lt;/p&gt;
