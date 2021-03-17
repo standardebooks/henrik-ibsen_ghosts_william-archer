@@ -20,11 +20,6 @@
 	font-style: italic;
 }
 
-[epub|type~="z3998:dramatis-personae"] li p + p{
-	font-style: normal;
-	text-indent: 0;
-}
-
 [epub|type~="z3998:dramatis-personae"] ul + p{
 	margin-top: 2em;
 }
