@@ -37,11 +37,11 @@
 		<dc:title id="fulltitle">Ghosts: A Family-Drama in Three Acts</dc:title>
 		<meta property="file-as" refines="#fulltitle">Ghosts</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
-		<dc:subject id="subject-1">Families -- Drama</dc:subject>
-		<dc:subject id="subject-2">Europe -- Social conditions -- 19th century -- Drama</dc:subject>
+		<dc:subject id="subject-1">Families--Drama</dc:subject>
+		<dc:subject id="subject-2">Europe--Social conditions--19th century--Drama</dc:subject>
 		<dc:subject id="subject-3">Tragedies</dc:subject>
-		<dc:subject id="subject-4">Mothers and sons -- Drama</dc:subject>
-		<dc:subject id="subject-5">Norwegian drama -- Translations into English</dc:subject>
+		<dc:subject id="subject-4">Mothers and sons--Drama</dc:subject>
+		<dc:subject id="subject-5">Norwegian drama--Translations into English</dc:subject>
 		<dc:subject id="subject-6">Domestic drama</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008103500</meta>
